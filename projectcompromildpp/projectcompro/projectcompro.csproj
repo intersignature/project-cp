@@ -1,0 +1,480 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7EAC6697-23B5-45D1-BB30-D9F0755AFAD4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>projectcompro</RootNamespace>
+    <AssemblyName>projectcompro</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="academy.xaml.cs">
+      <DependentUpon>academy.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="battle.xaml.cs">
+      <DependentUpon>battle.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="inventory.xaml.cs">
+      <DependentUpon>inventory.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="mainmenu.xaml.cs">
+      <DependentUpon>mainmenu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="blacksmith.xaml.cs">
+      <DependentUpon>blacksmith.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="moonshine.xaml.cs">
+      <DependentUpon>moonshine.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="res\shop.xaml.cs">
+      <DependentUpon>shop.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="select.xaml.cs">
+      <DependentUpon>select.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="shop.xaml.cs">
+      <DependentUpon>shop.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="status.xaml.cs">
+      <DependentUpon>status.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="town.xaml.cs">
+      <DependentUpon>town.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="traven.xaml.cs">
+      <DependentUpon>traven.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="worldmap.xaml.cs">
+      <DependentUpon>worldmap.xaml</DependentUpon>
+    </Compile>
+    <Page Include="academy.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="battle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="inventory.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="mainmenu.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="blacksmith.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="moonshine.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="res\shop.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="select.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="shop.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="status.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="town.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="traven.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="worldmap.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="res\map.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="res\th1.png" />
+    <Resource Include="res\th2.png" />
+    <Resource Include="res\th3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="res\war1.png" />
+    <Resource Include="res\war2.png" />
+    <Resource Include="res\war3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="res\mage1.png" />
+    <Resource Include="res\mage2.png" />
+    <Resource Include="res\mage3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="res\traven.jpg" />
+    <Resource Include="res\walet click.png" />
+    <Resource Include="res\walet.png" />
+    <Resource Include="res\yes.png" />
+    <Resource Include="res\yesclick.png" />
+    <Resource Include="weapon\Barrier.png" />
+    <Resource Include="weapon\Bone knight.png" />
+    <Resource Include="weapon\Dratt Sword.png" />
+    <Resource Include="weapon\Durandul.png" />
+    <Resource Include="weapon\Goddess Give.png" />
+    <Resource Include="weapon\Tortoiseshell.png" />
+    <Resource Include="weapon\Gravity.png" />
+    <Resource Include="weapon\Heaven Sword.png" />
+    <Resource Include="weapon\Lumai Two-handed sword.png" />
+    <Resource Include="weapon\Priest Savage.png" />
+    <Resource Include="weapon\Taruntura leg.png" />
+    <Resource Include="weapon\Trinity Sword.png" />
+    <Resource Include="weapon\Arcana staff.png" />
+    <Resource Include="weapon\Aston staff.png" />
+    <Resource Include="weapon\Candle staff.png" />
+    <Resource Include="weapon\Greer lostines rank.png" />
+    <Resource Include="weapon\Saline.png" />
+    <Resource Include="weapon\Warlock staff.png" />
+    <Resource Include="weapon\Death weaver tooth.png" />
+    <Resource Include="weapon\Dragon dagger.png" />
+    <Resource Include="weapon\Overblade.png" />
+    <Resource Include="weapon\Rama dagger.png" />
+    <Resource Include="weapon\Soul dagger.png" />
+    <Resource Include="weapon\Wedge poison.png" />
+    <Resource Include="weapon\Excel bow.png" />
+    <Resource Include="weapon\Fairy bow.png" />
+    <Resource Include="weapon\Heart seeker.png" />
+    <Resource Include="weapon\Iron bow.png" />
+    <Resource Include="weapon\Lolophanter.png" />
+    <Resource Include="weapon\Luna bow.png" />
+    <Resource Include="weapon\Abramelin.png" />
+    <Resource Include="weapon\Bible.png" />
+    <Resource Include="weapon\Codex.png" />
+    <Resource Include="weapon\Galdrabok.png" />
+    <Resource Include="weapon\Honorius.png" />
+    <Resource Include="weapon\Voodo.png" />
+    <Resource Include="weapon\Armour Guard.png" />
+    <Resource Include="weapon\Banshee veil.png" />
+    <Resource Include="weapon\Clever wrap.png" />
+    <Resource Include="weapon\Dragon scale.png" />
+    <Resource Include="weapon\Earth spirit armor.png" />
+    <Resource Include="weapon\Monkey King.png" />
+    <Resource Include="res\worldmap.jpg" />
+    <Resource Include="res\valley.png" />
+    <Resource Include="res\ank.png" />
+    <Resource Include="res\conti.png" />
+    <Resource Include="res\contic.png" />
+    <Resource Include="res\bordclick.png" />
+    <Resource Include="char\Magebattle2.png" />
+    <Resource Include="char\Thiefbattle2.png" />
+    <Resource Include="char\Warriorbattle2.png" />
+    <Resource Include="char\blank1.png" />
+    <Resource Include="char\baby dragon1.png" />
+    <Resource Include="char\baby dragon2.png" />
+    <Resource Include="char\baby dragon3.png" />
+    <Resource Include="char\captain jack1.png" />
+    <Resource Include="char\captain jack2.png" />
+    <Resource Include="char\captain jack3.png" />
+    <Resource Include="char\chief of thief1.png" />
+    <Resource Include="char\chief of thief2.png" />
+    <Resource Include="char\chief of thief3.png" />
+    <Resource Include="char\cyclop1.png" />
+    <Resource Include="char\cyclop2.png" />
+    <Resource Include="char\cyclop3.png" />
+    <Resource Include="char\desert snake1.png" />
+    <Resource Include="char\desert snake2.png" />
+    <Resource Include="char\desert snake3.png" />
+    <Resource Include="char\elf1.png" />
+    <Resource Include="char\elf2.png" />
+    <Resource Include="char\elf3.png" />
+    <Resource Include="char\fire dragon1.png" />
+    <Resource Include="char\fire dragon2.png" />
+    <Resource Include="char\fire dragon3.png" />
+    <Resource Include="char\ghost1.png" />
+    <Resource Include="char\ghost2.png" />
+    <Resource Include="char\ghost3.png" />
+    <Resource Include="char\giant tree1.png" />
+    <Resource Include="char\giant tree2.png" />
+    <Resource Include="char\giant tree3.png" />
+    <Resource Include="char\goblin archer1.png" />
+    <Resource Include="char\goblin archer2.png" />
+    <Resource Include="char\goblin archer3.png" />
+    <Resource Include="char\goblin shaman1.png" />
+    <Resource Include="char\goblin shaman2.png" />
+    <Resource Include="char\goblin shaman3.png" />
+    <Resource Include="char\goblin warrior1.png" />
+    <Resource Include="char\goblin warrior2.png" />
+    <Resource Include="char\goblin warrior3.png" />
+    <Resource Include="char\golem1.png" />
+    <Resource Include="char\golem2.png" />
+    <Resource Include="char\golem3.png" />
+    <Resource Include="char\harpy1.png" />
+    <Resource Include="char\harpy2.png" />
+    <Resource Include="char\harpy3.png" />
+    <Resource Include="char\king goblin1.png" />
+    <Resource Include="char\king goblin2.png" />
+    <Resource Include="char\king goblin3.png" />
+    <Resource Include="char\main.png" />
+    <Resource Include="char\mummy1.png" />
+    <Resource Include="char\mummy2.png" />
+    <Resource Include="char\mummy3.png" />
+    <Resource Include="char\old king skeleton1.png" />
+    <Resource Include="char\old king skeleton2.png" />
+    <Resource Include="char\old king skeleton3.png" />
+    <Resource Include="char\orge mage1.png" />
+    <Resource Include="char\orge mage2.png" />
+    <Resource Include="char\orge mage3.png" />
+    <Resource Include="char\pirate1.png" />
+    <Resource Include="char\pirate2.png" />
+    <Resource Include="char\pirate3.png" />
+    <Resource Include="char\prisoner1.png" />
+    <Resource Include="char\prisoner2.png" />
+    <Resource Include="char\prisoner3.png" />
+    <Resource Include="char\skeleton archer1.png" />
+    <Resource Include="char\skeleton archer2.png" />
+    <Resource Include="char\skeleton archer3.png" />
+    <Resource Include="char\skeleton mage1.png" />
+    <Resource Include="char\skeleton mage2.png" />
+    <Resource Include="char\skeleton mage3.png" />
+    <Resource Include="char\skeleton warrior1.png" />
+    <Resource Include="char\skeleton warrior2.png" />
+    <Resource Include="char\skeleton warrior3.png" />
+    <Resource Include="char\skelwar1.png" />
+    <Resource Include="char\thief1.png" />
+    <Resource Include="char\thief2.png" />
+    <Resource Include="char\thief3.png" />
+    <Resource Include="char\whip1.png" />
+    <Resource Include="char\whip2.png" />
+    <Resource Include="char\whip3.png" />
+    <Resource Include="char\witch1.png" />
+    <Resource Include="char\witch2.png" />
+    <Resource Include="char\witch3.png" />
+    <Resource Include="char\wolf1.png" />
+    <Resource Include="char\wolf2.png" />
+    <Resource Include="char\wolf3.png" />
+    <Resource Include="char\wraith knight1.png" />
+    <Resource Include="char\wraith knight2.png" />
+    <Resource Include="char\wraith knight3.png" />
+    <Resource Include="char\blank2.png" />
+    <Resource Include="char\blank3.png" />
+    <Resource Include="char\Magebattle1.png" />
+    <Resource Include="char\Magebattle3.png" />
+    <Resource Include="char\Thiefbattle1.png" />
+    <Resource Include="char\Thiefbattle3.png" />
+    <Resource Include="char\Warriorbattle1.png" />
+    <Resource Include="char\Warriorbattle3.png" />
+    <Content Include="res\Angevin_Thatched_Villagers.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\BIGSMSH.WAV">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="res\continue.png" />
+    <Content Include="res\Black_and_White in battle.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="res\D-703.jpg" />
+    <Content Include="res\Dress_Shoe_Walk_Light_Grit.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="res\graveyard.png" />
+    <Resource Include="res\jail.png" />
+    <Resource Include="res\moonshine.png" />
+    <Resource Include="res\outpostwm.png" />
+    <Resource Include="res\ruin.png" />
+    <Resource Include="res\tarun.png" />
+    <Resource Include="res\TEAR.png" />
+    <Resource Include="res\exitdown.png" />
+    <Resource Include="res\exitup.png" />
+    <Resource Include="res\fire.jpg" />
+    <Resource Include="res\flare.png" />
+    <Content Include="res\echo-gurgle-whoosh 1.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\inshop.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="res\inven.png" />
+    <Content Include="res\Ishikari_Lore in shop.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\jick.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="res\mainm.jpg" />
+    <Resource Include="res\startgame.png" />
+    <Resource Include="res\startgamec.png" />
+    <Resource Include="res\tagank.png" />
+    <Resource Include="res\taggrave.png" />
+    <Resource Include="res\tagjail.png" />
+    <Resource Include="res\tagmoon.png" />
+    <Resource Include="res\tagoutpost.png" />
+    <Resource Include="res\tagruin.png" />
+    <Resource Include="res\tagtarun.png" />
+    <Resource Include="res\tagtear.png" />
+    <Resource Include="res\tagtown.png" />
+    <Resource Include="res\tagvalley.png" />
+    <Resource Include="res\tagzeal.png" />
+    <Content Include="res\John_Stockton_Slow_Drag.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="res\the-blacksmith-303059.jpg" />
+    <Resource Include="res\newqustion.png" />
+    <Resource Include="res\no.png" />
+    <Resource Include="res\noclick.png" />
+    <Resource Include="res\portal.gif" />
+    <Resource Include="res\moonshinestage.jpg" />
+    <Resource Include="res\portal1.png" />
+    <Resource Include="res\MoonShine_Garden.png" />
+    <Resource Include="res\krub.png" />
+    <Resource Include="res\krubclick.png" />
+    <Resource Include="res\portal2.png" />
+    <Resource Include="res\portal3.png" />
+    <Resource Include="res\portal4.png" />
+    <Resource Include="res\portal5.png" />
+    <Resource Include="res\portalun.png" />
+    <Resource Include="res\paper bg.jpg" />
+    <Resource Include="res\questionmainmenu.png" />
+    <Resource Include="res\saved.png" />
+    <Resource Include="res\suresell.png" />
+    <Resource Include="res\suresellclick.png" />
+    <Content Include="res\The_Great_Avenger.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="res\townwp.png" />
+    <Resource Include="res\zeal.png" />
+    <Resource Include="res\status.png" />
+    <Resource Include="res\townmap.jpg" />
+    <Resource Include="res\bannershop.jpg" />
+    <Resource Include="res\blank.png" />
+    <Resource Include="res\bannerblack.jpg" />
+    <Resource Include="res\bannerguild.jpg" />
+    <Resource Include="res\banneraca.jpg" />
+    <Resource Include="res\bannertra.jpg" />
+    <Resource Include="res\bannerworld.jpg" />
+    <Resource Include="res\menuin.png" />
+    <Resource Include="res\buy bottn.png" />
+    <Resource Include="res\buy button enter.png" />
+    <Resource Include="res\shop.png" />
+    <Resource Include="res\sell bott.png" />
+    <Resource Include="res\sellbuttonenter.png" />
+    <Resource Include="res\door back.png" />
+    <Resource Include="res\door open.png" />
+    <Resource Include="res\bord.png" />
+    <Resource Include="res\bag open.png" />
+    <Resource Include="res\bag.png" />
+    <Resource Include="res\class.jpg" />
+    <Content Include="res\South_Of_The_Border.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="res\townmap" />
+    <Resource Include="res\boader.jpg" />
+    <Content Include="res\Cupboard_Door.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\Juniper.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

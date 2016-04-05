@@ -1,0 +1,54 @@
+﻿<Page x:Name="inventory1" x:Class="projectcompro.inventory"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:projectcompro"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="inventory" Width="800" Height="600" Loaded="inventory1_Loaded">
+
+    <Grid Loaded="Grid_Loaded">
+        <Image x:Name="back1" HorizontalAlignment="Left" Height="600" VerticalAlignment="Top" Width="800" Source="res/paper bg.jpg" Stretch="Fill" Opacity="0.5"/>
+        <Image x:Name="bg" HorizontalAlignment="Left" Height="560" VerticalAlignment="Top" Width="770" Stretch="Fill" Source="res/inven.png"/>
+        <Label x:Name="back" Content="BACK " HorizontalAlignment="Left" Height="61" Margin="10,497,0,0" VerticalAlignment="Top" Width="136" FontFamily="Monotype Corsiva" FontSize="48" MouseEnter="back_MouseEnter" MouseLeave="back_MouseLeave" MouseLeftButtonDown="back_MouseLeftButtonDown"/>
+        <MediaElement x:Name="jick" HorizontalAlignment="Left" Height="61" Margin="-183,529,0,0" VerticalAlignment="Top" Width="71" Source="res/jick.wav" LoadedBehavior="Manual" UnloadedBehavior="Stop"/>
+        <MediaElement x:Name="music" HorizontalAlignment="Left" Height="68" Margin="-183,434,0,0" VerticalAlignment="Top" Width="71" LoadedBehavior="Manual" UnloadedBehavior="Stop" Volume="3" Source="res/John_Stockton_Slow_Drag.mp3"/>
+        <Image x:Name="item1" HorizontalAlignment="Left" Height="52" Margin="242,140,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item1_MouseLeftButtonDown"/>
+        <Image x:Name="item2" HorizontalAlignment="Left" Height="52" Margin="314,140,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item2_MouseLeftButtonDown"/>
+        <Image x:Name="item3" HorizontalAlignment="Left" Height="52" Margin="386,140,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item3_MouseLeftButtonDown"/>
+        <Image x:Name="item4" HorizontalAlignment="Left" Height="52" Margin="458,140,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item4_MouseLeftButtonDown"/>
+        <Image x:Name="item5" HorizontalAlignment="Left" Height="52" Margin="530,140,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item5_MouseLeftButtonDown"/>
+        <Image x:Name="item6" HorizontalAlignment="Left" Height="52" Margin="242,210,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item6_MouseLeftButtonDown"/>
+        <Image x:Name="item7" HorizontalAlignment="Left" Height="52" Margin="314,210,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item7_MouseLeftButtonDown"/>
+        <Image x:Name="item8" HorizontalAlignment="Left" Height="52" Margin="386,210,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item8_MouseLeftButtonDown"/>
+        <Image x:Name="item9" HorizontalAlignment="Left" Height="52" Margin="458,210,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item9_MouseLeftButtonDown"/>
+        <Image x:Name="item10" HorizontalAlignment="Left" Height="52" Margin="530,210,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item10_MouseLeftButtonDown"/>
+        <Image x:Name="item11" HorizontalAlignment="Left" Height="52" Margin="242,280,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item11_MouseLeftButtonDown"/>
+        <Image x:Name="item12" HorizontalAlignment="Left" Height="52" Margin="314,280,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item12_MouseLeftButtonDown"/>
+        <Image x:Name="item13" HorizontalAlignment="Left" Height="52" Margin="386,280,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item13_MouseLeftButtonDown"/>
+        <Image x:Name="item14" HorizontalAlignment="Left" Height="52" Margin="458,280,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item14_MouseLeftButtonDown"/>
+        <Image x:Name="item15" HorizontalAlignment="Left" Height="52" Margin="530,280,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item15_MouseLeftButtonDown"/>
+        <Image x:Name="item16" HorizontalAlignment="Left" Height="52" Margin="242,351,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item16_MouseLeftButtonDown"/>
+        <Image x:Name="item17" HorizontalAlignment="Left" Height="52" Margin="314,351,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item17_MouseLeftButtonDown"/>
+        <Image x:Name="item18" HorizontalAlignment="Left" Height="52" Margin="386,351,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item18_MouseLeftButtonDown"/>
+        <Image x:Name="item19" HorizontalAlignment="Left" Height="52" Margin="458,351,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item19_MouseLeftButtonDown"/>
+        <Image x:Name="item20" HorizontalAlignment="Left" Height="52" Margin="530,351,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item20_MouseLeftButtonDown"/>
+        <Image x:Name="item21" HorizontalAlignment="Left" Height="52" Margin="242,420,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item21_MouseLeftButtonDown"/>
+        <Image x:Name="item22" HorizontalAlignment="Left" Height="52" Margin="314,420,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item22_MouseLeftButtonDown"/>
+        <Image x:Name="item23" HorizontalAlignment="Left" Height="52" Margin="386,420,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item23_MouseLeftButtonDown"/>
+        <Image x:Name="item24" HorizontalAlignment="Left" Height="52" Margin="458,420,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item24_MouseLeftButtonDown"/>
+        <Image x:Name="item25" HorizontalAlignment="Left" Height="52" Margin="530,420,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item25_MouseLeftButtonDown"/>
+        <Image x:Name="item26" HorizontalAlignment="Left" Height="52" Margin="242,490,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item26_MouseLeftButtonDown"/>
+        <Image x:Name="item27" HorizontalAlignment="Left" Height="52" Margin="314,490,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item27_MouseLeftButtonDown"/>
+        <Image x:Name="item28" HorizontalAlignment="Left" Height="52" Margin="386,490,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item28_MouseLeftButtonDown"/>
+        <Image x:Name="item29" HorizontalAlignment="Left" Height="52" Margin="458,490,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item29_MouseLeftButtonDown"/>
+        <Image x:Name="item30" HorizontalAlignment="Left" Height="52" Margin="530,490,0,0" VerticalAlignment="Top" Width="56" Stretch="Fill" MouseLeftButtonDown="item30_MouseLeftButtonDown"/>
+        <Image x:Name="sellshow" HorizontalAlignment="Left" Height="87" Margin="635,210,0,0" VerticalAlignment="Top" Width="106" MouseLeftButtonDown="image_MouseLeftButtonDown" MouseEnter="sellshow_MouseEnter" MouseLeave="sellshow_MouseLeave"/>
+        <Image x:Name="ok" HorizontalAlignment="Left" Height="52" Margin="635,351,0,0" VerticalAlignment="Top" Width="135" MouseLeftButtonDown="ok_MouseLeftButtonDown" MouseEnter="ok_MouseEnter" MouseLeave="ok_MouseLeave"/>
+        <Image x:Name="cancel" HorizontalAlignment="Left" Height="70" Margin="635,472,0,0" VerticalAlignment="Top" Width="135" MouseLeftButtonDown="cancel_MouseLeftButtonDown" MouseEnter="cancel_MouseEnter" MouseLeave="cancel_MouseLeave"/>
+
+
+
+    </Grid>
+</Page>

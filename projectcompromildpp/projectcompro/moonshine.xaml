@@ -1,0 +1,20 @@
+﻿<Page x:Name="moonstage" x:Class="projectcompro.moonshine"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:projectcompro"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="moonshine" Width="800" Height="599" Loaded="moonstage_Loaded">
+
+    <Grid>
+        <Image x:Name="bg" HorizontalAlignment="Left" Height="599" VerticalAlignment="Top" Width="790" Source="res/moonshinestage.jpg" Stretch="Fill"/>
+        <Image x:Name="door" HorizontalAlignment="Left" Height="78" Margin="10,10,0,0" VerticalAlignment="Top" Width="71" Source="res/door back.png" Stretch="Fill" MouseEnter="door_MouseEnter" MouseLeave="door_MouseLeave" MouseLeftButtonDown="door_MouseLeftButtonDown"/>
+        <Image x:Name="portal1" HorizontalAlignment="Left" Height="44" Margin="36,303,0,0" VerticalAlignment="Top" Width="74" Source="res/portal1.png" Stretch="Fill"/>
+        <Image x:Name="flare1" HorizontalAlignment="Left" Height="44" Margin="36,303,0,0" VerticalAlignment="Top" Width="74"   Opacity="0.7" MouseLeftButtonDown="flare1_MouseLeftButtonDown" MouseEnter="flare1_MouseEnter" MouseLeave="flare1_MouseLeave" Source="res/blank.png"/>
+        <MediaElement x:Name="warpsound" HorizontalAlignment="Left" Height="48" Margin="-94,314,0,0" VerticalAlignment="Top" Width="46" Volume="3" Source="res/echo-gurgle-whoosh 1.wav" LoadedBehavior="Manual" UnloadedBehavior="Stop" MediaEnded="warpsound_MediaEnded"/>
+        <MediaElement x:Name="music" HorizontalAlignment="Left" Height="65" Margin="-106,223,0,0" VerticalAlignment="Top" Width="58" Volume="3" Source="res/Angevin_Thatched_Villagers.mp3" LoadedBehavior="Manual" UnloadedBehavior="Stop" MediaEnded="music_MediaEnded"/>
+
+    </Grid>
+</Page>

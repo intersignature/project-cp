@@ -1,0 +1,263 @@
+c:\users\supanat\documents\visual studio 2015\Projects\projectcompro\projectcompro\bin\Debug\projectcompro.exe.config
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\bin\Debug\projectcompro.exe
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\bin\Debug\projectcompro.pdb
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\projectcompro.csprojResolveAssemblyReference.cache
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\MainWindow.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\select.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\App.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\projectcompro_MarkupCompile.cache
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\projectcompro_MarkupCompile.lref
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\MainWindow.baml
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\select.baml
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\projectcompro.g.resources
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\projectcompro.Properties.Resources.resources
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\projectcompro.csproj.GenerateResource.Cache
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\projectcompro.exe
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\projectcompro.pdb
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\mainmenu.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\mainmenu.baml
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\town.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\town.baml
+C:\Users\supanat\documents\visual studio 2015\Projects\projectcompro\projectcompro\obj\Debug\projectcompro_Content.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\bin\Debug\res\Cupboard_Door.mp3
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\bin\Debug\res\Juniper.mp3
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\bin\Debug\res\Dress_Shoe_Walk_Light_Grit.mp3
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\bin\Debug\res\South_Of_The_Border.mp3
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\res\shop.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\res\shop.baml
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\shop.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\shop.baml
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\status.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\status.baml
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\worldmap.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\worldmap.baml
+C:\Users\supanat\documents\visual studio 2015\Projects\projectcompro\projectcompro\bin\Debug\res\The_Great_Avenger.mp3
+C:\Users\supanat\documents\visual studio 2015\Projects\projectcompro\projectcompro\bin\Debug\res\jick.wav
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\bin\Debug\res\inshop.mp3
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\bin\Debug\res\Ishikari_Lore in shop.mp3
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\bin\Debug\res\John_Stockton_Slow_Drag.mp3
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\inventory.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\inventory.baml
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\blacksmith.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\blacksmith.baml
+D:\projectcompro\projectcompro\bin\Debug\projectcompro.exe.config
+D:\projectcompro\projectcompro\obj\Debug\projectcompro.exe
+D:\projectcompro\projectcompro\obj\Debug\projectcompro.pdb
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\battle.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\moonshine.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\battle.baml
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\obj\Debug\moonshine.baml
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompro\projectcompro\bin\Debug\res\BIGSMSH.WAV
+H:\projectcompro\projectcompro\bin\Debug\projectcompro.exe.config
+H:\projectcompro\projectcompro\obj\Debug\projectcompro.exe
+H:\projectcompro\projectcompro\obj\Debug\projectcompro.pdb
+H:\projectcompro\projectcompro\bin\Debug\res\BIGSMSH.WAV
+H:\projectcompro\projectcompro\bin\Debug\res\Dress_Shoe_Walk_Light_Grit.mp3
+H:\projectcompro\projectcompro\bin\Debug\res\inshop.mp3
+H:\projectcompro\projectcompro\bin\Debug\res\Ishikari_Lore in shop.mp3
+H:\projectcompro\projectcompro\bin\Debug\res\jick.wav
+H:\projectcompro\projectcompro\bin\Debug\res\John_Stockton_Slow_Drag.mp3
+H:\projectcompro\projectcompro\bin\Debug\res\The_Great_Avenger.mp3
+H:\projectcompro\projectcompro\bin\Debug\res\South_Of_The_Border.mp3
+H:\projectcompro\projectcompro\bin\Debug\res\Cupboard_Door.mp3
+H:\projectcompro\projectcompro\bin\Debug\res\Juniper.mp3
+H:\projectcompro\projectcompro\bin\Debug\projectcompro.exe
+H:\projectcompro\projectcompro\bin\Debug\projectcompro.pdb
+H:\projectcompro\projectcompro\obj\Debug\projectcompro.csprojResolveAssemblyReference.cache
+H:\projectcompro\projectcompro\obj\Debug\battle.g.cs
+H:\projectcompro\projectcompro\obj\Debug\inventory.g.cs
+H:\projectcompro\projectcompro\obj\Debug\mainmenu.g.cs
+H:\projectcompro\projectcompro\obj\Debug\MainWindow.g.cs
+H:\projectcompro\projectcompro\obj\Debug\blacksmith.g.cs
+H:\projectcompro\projectcompro\obj\Debug\moonshine.g.cs
+H:\projectcompro\projectcompro\obj\Debug\res\shop.g.cs
+H:\projectcompro\projectcompro\obj\Debug\select.g.cs
+H:\projectcompro\projectcompro\obj\Debug\shop.g.cs
+H:\projectcompro\projectcompro\obj\Debug\status.g.cs
+H:\projectcompro\projectcompro\obj\Debug\town.g.cs
+H:\projectcompro\projectcompro\obj\Debug\worldmap.g.cs
+H:\projectcompro\projectcompro\obj\Debug\App.g.cs
+H:\projectcompro\projectcompro\obj\Debug\projectcompro_Content.g.cs
+H:\projectcompro\projectcompro\obj\Debug\projectcompro_MarkupCompile.cache
+H:\projectcompro\projectcompro\obj\Debug\projectcompro_MarkupCompile.lref
+H:\projectcompro\projectcompro\obj\Debug\battle.baml
+H:\projectcompro\projectcompro\obj\Debug\inventory.baml
+H:\projectcompro\projectcompro\obj\Debug\mainmenu.baml
+H:\projectcompro\projectcompro\obj\Debug\MainWindow.baml
+H:\projectcompro\projectcompro\obj\Debug\blacksmith.baml
+H:\projectcompro\projectcompro\obj\Debug\moonshine.baml
+H:\projectcompro\projectcompro\obj\Debug\res\shop.baml
+H:\projectcompro\projectcompro\obj\Debug\select.baml
+H:\projectcompro\projectcompro\obj\Debug\shop.baml
+H:\projectcompro\projectcompro\obj\Debug\status.baml
+H:\projectcompro\projectcompro\obj\Debug\town.baml
+H:\projectcompro\projectcompro\obj\Debug\worldmap.baml
+H:\projectcompro\projectcompro\obj\Debug\projectcompro.g.resources
+H:\projectcompro\projectcompro\obj\Debug\projectcompro.Properties.Resources.resources
+H:\projectcompro\projectcompro\obj\Debug\projectcompro.csproj.GenerateResource.Cache
+F:\projectcompro\projectcompro\bin\Debug\projectcompro.exe.config
+F:\projectcompro\projectcompro\obj\Debug\projectcompro.exe
+F:\projectcompro\projectcompro\obj\Debug\projectcompro.pdb
+F:\projectcompro\projectcompro\bin\Debug\res\BIGSMSH.WAV
+F:\projectcompro\projectcompro\bin\Debug\res\Dress_Shoe_Walk_Light_Grit.mp3
+F:\projectcompro\projectcompro\bin\Debug\res\inshop.mp3
+F:\projectcompro\projectcompro\bin\Debug\res\Ishikari_Lore in shop.mp3
+F:\projectcompro\projectcompro\bin\Debug\res\jick.wav
+F:\projectcompro\projectcompro\bin\Debug\res\John_Stockton_Slow_Drag.mp3
+F:\projectcompro\projectcompro\bin\Debug\res\The_Great_Avenger.mp3
+F:\projectcompro\projectcompro\bin\Debug\res\South_Of_The_Border.mp3
+F:\projectcompro\projectcompro\bin\Debug\res\Cupboard_Door.mp3
+F:\projectcompro\projectcompro\bin\Debug\res\Juniper.mp3
+F:\projectcompro\projectcompro\bin\Debug\projectcompro.exe
+F:\projectcompro\projectcompro\bin\Debug\projectcompro.pdb
+F:\projectcompro\projectcompro\obj\Debug\projectcompro.csprojResolveAssemblyReference.cache
+F:\projectcompro\projectcompro\obj\Debug\battle.g.cs
+F:\projectcompro\projectcompro\obj\Debug\inventory.g.cs
+F:\projectcompro\projectcompro\obj\Debug\mainmenu.g.cs
+F:\projectcompro\projectcompro\obj\Debug\MainWindow.g.cs
+F:\projectcompro\projectcompro\obj\Debug\blacksmith.g.cs
+F:\projectcompro\projectcompro\obj\Debug\moonshine.g.cs
+F:\projectcompro\projectcompro\obj\Debug\res\shop.g.cs
+F:\projectcompro\projectcompro\obj\Debug\select.g.cs
+F:\projectcompro\projectcompro\obj\Debug\shop.g.cs
+F:\projectcompro\projectcompro\obj\Debug\status.g.cs
+F:\projectcompro\projectcompro\obj\Debug\town.g.cs
+F:\projectcompro\projectcompro\obj\Debug\worldmap.g.cs
+F:\projectcompro\projectcompro\obj\Debug\App.g.cs
+F:\projectcompro\projectcompro\obj\Debug\projectcompro_Content.g.cs
+F:\projectcompro\projectcompro\obj\Debug\projectcompro_MarkupCompile.cache
+F:\projectcompro\projectcompro\obj\Debug\projectcompro_MarkupCompile.lref
+F:\projectcompro\projectcompro\obj\Debug\battle.baml
+F:\projectcompro\projectcompro\obj\Debug\inventory.baml
+F:\projectcompro\projectcompro\obj\Debug\mainmenu.baml
+F:\projectcompro\projectcompro\obj\Debug\MainWindow.baml
+F:\projectcompro\projectcompro\obj\Debug\blacksmith.baml
+F:\projectcompro\projectcompro\obj\Debug\moonshine.baml
+F:\projectcompro\projectcompro\obj\Debug\res\shop.baml
+F:\projectcompro\projectcompro\obj\Debug\select.baml
+F:\projectcompro\projectcompro\obj\Debug\shop.baml
+F:\projectcompro\projectcompro\obj\Debug\status.baml
+F:\projectcompro\projectcompro\obj\Debug\town.baml
+F:\projectcompro\projectcompro\obj\Debug\worldmap.baml
+F:\projectcompro\projectcompro\obj\Debug\projectcompro.g.resources
+F:\projectcompro\projectcompro\obj\Debug\projectcompro.Properties.Resources.resources
+F:\projectcompro\projectcompro\obj\Debug\projectcompro.csproj.GenerateResource.Cache
+F:\projectcompro\projectcompro\bin\Debug\res\Angevin_Thatched_Villagers.mp3
+F:\projectcompro\projectcompro\bin\Debug\res\echo-gurgle-whoosh 1.wav
+F:\projectcompro\projectcompro\bin\Debug\res\Black_and_White in battle.mp3
+F:\projectcompro\projectcompro\obj\Debug\academy.g.cs
+F:\projectcompro\projectcompro\obj\Debug\academy.baml
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\bin\Debug\projectcompro.exe.config
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\projectcompro.exe
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\projectcompro.pdb
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\bin\Debug\res\Angevin_Thatched_Villagers.mp3
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\bin\Debug\res\BIGSMSH.WAV
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\bin\Debug\res\Black_and_White in battle.mp3
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\bin\Debug\res\Dress_Shoe_Walk_Light_Grit.mp3
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\bin\Debug\res\echo-gurgle-whoosh 1.wav
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\bin\Debug\res\inshop.mp3
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\bin\Debug\res\Ishikari_Lore in shop.mp3
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\bin\Debug\res\jick.wav
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\bin\Debug\res\John_Stockton_Slow_Drag.mp3
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\bin\Debug\res\The_Great_Avenger.mp3
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\bin\Debug\res\South_Of_The_Border.mp3
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\bin\Debug\res\Cupboard_Door.mp3
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\bin\Debug\res\Juniper.mp3
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\bin\Debug\projectcompro.exe
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\bin\Debug\projectcompro.pdb
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\projectcompro.csprojResolveAssemblyReference.cache
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\academy.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\battle.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\inventory.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\mainmenu.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\MainWindow.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\blacksmith.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\moonshine.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\res\shop.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\select.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\shop.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\status.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\town.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\worldmap.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\App.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\projectcompro_Content.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\projectcompro_MarkupCompile.cache
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\projectcompro_MarkupCompile.lref
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\academy.baml
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\battle.baml
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\inventory.baml
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\mainmenu.baml
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\MainWindow.baml
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\blacksmith.baml
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\moonshine.baml
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\res\shop.baml
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\select.baml
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\shop.baml
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\status.baml
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\town.baml
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\worldmap.baml
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\projectcompro.g.resources
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\projectcompro.Properties.Resources.resources
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\projectcompro.csproj.GenerateResource.Cache
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\traven.g.cs
+C:\Users\supanat\Documents\Visual Studio 2015\Projects\projectcompromild\projectcompro\obj\Debug\traven.baml
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\bin\Debug\projectcompro.exe.config
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\projectcompro.exe
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\projectcompro.pdb
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\bin\Debug\res\Angevin_Thatched_Villagers.mp3
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\bin\Debug\res\BIGSMSH.WAV
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\bin\Debug\res\Black_and_White in battle.mp3
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\bin\Debug\res\Dress_Shoe_Walk_Light_Grit.mp3
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\bin\Debug\res\echo-gurgle-whoosh 1.wav
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\bin\Debug\res\inshop.mp3
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\bin\Debug\res\Ishikari_Lore in shop.mp3
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\bin\Debug\res\jick.wav
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\bin\Debug\res\John_Stockton_Slow_Drag.mp3
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\bin\Debug\res\The_Great_Avenger.mp3
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\bin\Debug\res\South_Of_The_Border.mp3
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\bin\Debug\res\Cupboard_Door.mp3
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\bin\Debug\res\Juniper.mp3
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\bin\Debug\projectcompro.exe
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\bin\Debug\projectcompro.pdb
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\projectcompro.csprojResolveAssemblyReference.cache
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\academy.g.cs
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\battle.g.cs
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\inventory.g.cs
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\mainmenu.g.cs
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\MainWindow.g.cs
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\blacksmith.g.cs
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\moonshine.g.cs
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\res\shop.g.cs
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\select.g.cs
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\shop.g.cs
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\status.g.cs
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\town.g.cs
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\traven.g.cs
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\worldmap.g.cs
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\App.g.cs
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\projectcompro_Content.g.cs
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\projectcompro_MarkupCompile.cache
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\projectcompro_MarkupCompile.lref
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\academy.baml
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\battle.baml
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\inventory.baml
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\mainmenu.baml
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\MainWindow.baml
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\blacksmith.baml
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\moonshine.baml
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\res\shop.baml
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\select.baml
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\shop.baml
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\status.baml
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\town.baml
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\traven.baml
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\worldmap.baml
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\projectcompro.g.resources
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\projectcompro.Properties.Resources.resources
+C:\Users\Barjord\Desktop\projectcompromild\projectcompro\obj\Debug\projectcompro.csproj.GenerateResource.Cache
+F:\projectcompromild\projectcompro\bin\Debug\projectcompro.exe.config
+F:\projectcompromild\projectcompro\obj\Debug\projectcompro.exe
+F:\projectcompromild\projectcompro\obj\Debug\projectcompro.pdb
+C:\Users\lynx\Desktop\projectcompromildpp\projectcompro\bin\Debug\projectcompro.exe.config
+C:\Users\lynx\Desktop\projectcompromildpp\projectcompro\obj\Debug\projectcompro.exe
+C:\Users\lynx\Desktop\projectcompromildpp\projectcompro\obj\Debug\projectcompro.pdb

@@ -1,0 +1,27 @@
+﻿<Page x:Class="projectcompro.mainmenu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:projectcompro"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="800"
+      Title="mainmenu" Width="800" Height="600" Loaded="Page_Loaded">
+
+    <Grid>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="600" VerticalAlignment="Top" Width="800" Source="res/mainm.jpg" Stretch="Fill"/>
+        <Image x:Name="exit" HorizontalAlignment="Left" Height="101" Margin="287,465,0,0" VerticalAlignment="Top" Width="237" Source="res/exitup.png" Stretch="Fill"/>
+        <Button x:Name="exbup" Content="Button" HorizontalAlignment="Left" Height="38" Margin="287,469,0,0" VerticalAlignment="Top" Width="237" Click="button1_Click_1" Opacity="0" MouseEnter="exbup_MouseEnter"/>
+        <Button x:Name="exbdown" Content="Button" HorizontalAlignment="Left" Height="38" Margin="287,528,0,0" VerticalAlignment="Top" Width="237" Click="button1_Click_1" Opacity="0" MouseEnter="exbdown_MouseEnter"/>
+        <MediaElement x:Name="music" HorizontalAlignment="Left" Height="100" Margin="-272,132,0,0" VerticalAlignment="Top" Width="100" Volume="3" Source="res/Juniper.mp3" LoadedBehavior="Manual" UnloadedBehavior="Stop"/>
+        <Image x:Name="start" HorizontalAlignment="Left" Height="118" Margin="222,268,0,0" VerticalAlignment="Top" Width="385" Source="res/startgame.png" Stretch="Fill" MouseEnter="start_MouseEnter" MouseLeave="start_MouseLeave" MouseLeftButtonDown="start_MouseLeftButtonDown"/>
+        <Image x:Name="conti" HorizontalAlignment="Left" Height="55" Margin="344,401,0,0" VerticalAlignment="Top" Width="123" Source="res/conti.png" Stretch="Fill" MouseEnter="conti_MouseEnter" MouseLeave="conti_MouseLeave" MouseLeftButtonDown="conti_MouseLeftButtonDown"/>
+        <MediaElement x:Name="jick" HorizontalAlignment="Left" Height="88" Margin="-257,298,0,0" VerticalAlignment="Top" Width="85" Source="res/jick.wav" LoadedBehavior="Manual" UnloadedBehavior="Stop"/>
+        <Image x:Name="question" HorizontalAlignment="Left" Height="256" Margin="237,204,0,0" VerticalAlignment="Top" Width="347"/>
+        <Image x:Name="yes" HorizontalAlignment="Left" Height="55" Margin="260,350,0,0" VerticalAlignment="Top" Width="130" Stretch="Fill" MouseEnter="yes_MouseEnter" MouseLeave="yes_MouseLeave" MouseLeftButtonDown="yes_MouseLeftButtonDown"/>
+        <Image x:Name="no" HorizontalAlignment="Left" Height="55" Margin="431,350,0,0" VerticalAlignment="Top" Width="130" Stretch="Fill" MouseEnter="no_MouseEnter" MouseLeave="no_MouseLeave" MouseLeftButtonDown="no_MouseLeftButtonDown"/>
+        <Image x:Name="continue_ok" Margin="365,0,333,187.414" Height="26.586" VerticalAlignment="Bottom" MouseEnter="continue_ok_MouseEnter_1" MouseLeave="continue_ok_MouseLeave_1" MouseLeftButtonDown="continue_ok_MouseLeftButtonDown_1"/>
+
+
+    </Grid>
+</Page>

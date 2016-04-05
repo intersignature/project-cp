@@ -1,0 +1,44 @@
+﻿<Page x:Class="projectcompro.town"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:projectcompro"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="town" Loaded="Page_Loaded" Width="800" Height="600">
+
+    <Grid>
+        <Image x:Name="townmap" HorizontalAlignment="Left" Height="600" VerticalAlignment="Top" Width="805" Source="res/townmap.jpg" Stretch="Fill" Margin="-5,0,0,0"/>
+        <Image x:Name="bord" HorizontalAlignment="Left" Height="237" VerticalAlignment="Top" Width="349" Source="res/bord.png" Stretch="Fill" Opacity="0.5" Margin="-18,-70,0,0"/>
+        <Label x:Name="playername" Content="label" HorizontalAlignment="Left" Margin="92,26,0,0" VerticalAlignment="Top" Loaded="playername_Loaded" Height="45" Width="197" FontFamily="BoonJot" FontSize="24" RenderTransformOrigin="0.609,0.515"/>
+        <Label x:Name="showclass" Content="Dark Anchon" HorizontalAlignment="Left" Margin="92,71,0,0" VerticalAlignment="Top" Height="37" Width="117" FontFamily="Monotype Corsiva" FontSize="18.667" FontWeight="Bold"/>
+        <Label x:Name="lvplayer" Content="lv.1" HorizontalAlignment="Left" Height="34" Margin="216,66,0,0" VerticalAlignment="Top" Width="57" FontFamily="BoonJot" FontSize="18.667" RenderTransformOrigin="0.494,0.529" Foreground="Black"/>
+        <Image x:Name="display" HorizontalAlignment="Left" Height="65" Margin="36,30,0,0" VerticalAlignment="Top" Width="49"/>
+        <MediaElement x:Name="music" HorizontalAlignment="Left" Height="100" Margin="1018,432,-318,0" VerticalAlignment="Top" Width="100" LoadedBehavior="Manual" UnloadedBehavior="Stop" Source="res/South_Of_The_Border.mp3" MediaEnded="music_MediaEnded" Volume="3"/>
+        
+        <Button x:Name="traven" Content="Button" HorizontalAlignment="Left" Height="82" Margin="483,389,0,0" VerticalAlignment="Top" Width="86" Opacity="0" Click="traven_Click" MouseEnter="traven_MouseEnter" MouseLeave="traven_MouseLeave"/>
+        <Button x:Name="shop" Content="Button" HorizontalAlignment="Left" Height="70" Margin="240,397,0,0" VerticalAlignment="Top" Width="91" Opacity="0" Click="shop_Click" MouseEnter="shop_MouseEnter" MouseLeave="shop_MouseLeave"/>
+        <Button x:Name="backsmith" Content="Button" HorizontalAlignment="Left" Height="97" Margin="257,244,0,0" VerticalAlignment="Top" Width="88" Opacity="0" Click="backsmith_Click" MouseEnter="backsmith_MouseEnter" MouseLeave="backsmith_MouseLeave"/>
+        <Image x:Name="banshop" HorizontalAlignment="Left" Height="34" Margin="230,362,0,0" VerticalAlignment="Top" Width="101" Source="res/blank.png" Stretch="Fill"/>
+        <Image x:Name="banblack" HorizontalAlignment="Left" Height="50" Margin="242,213,0,0" VerticalAlignment="Top" Width="122" Source="res/blank.png" Stretch="Fill"/>
+        <Button x:Name="academy" Content="Button" HorizontalAlignment="Left" Height="81" Margin="489,272,0,0" VerticalAlignment="Top" Width="95" Opacity="0" MouseEnter="academy_MouseEnter" MouseLeave="academy_MouseLeave" Click="academy_Click"/>
+        <Button x:Name="guild" Content="Button" HorizontalAlignment="Left" Height="117" Margin="356,288,0,0" VerticalAlignment="Top" Width="120" Opacity="0" MouseEnter="guild_MouseEnter" MouseLeave="guild_MouseLeave"/>
+        <Image x:Name="banguild" HorizontalAlignment="Left" Height="47" Margin="352,254,0,0" VerticalAlignment="Top" Width="120" Source="res/blank.png" Stretch="Fill"/>
+        <Image x:Name="banaca" HorizontalAlignment="Left" Height="44" Margin="473,223,0,0" VerticalAlignment="Top" Width="111" Source="res/blank.png" Stretch="Fill"/>
+        <Image x:Name="bantra" HorizontalAlignment="Left" Height="36" Margin="475,349,0,0" VerticalAlignment="Top" Width="105" Source="res/blank.png" Stretch="Fill"/>
+        <Button x:Name="banworld" Content="Button" HorizontalAlignment="Left" Height="93" Margin="351,469,0,0" VerticalAlignment="Top" Width="120" Opacity="0" MouseEnter="banworld_MouseEnter" MouseLeave="banworld_MouseLeave" Click="banworld_Click"/>
+        <Image x:Name="banworld1" HorizontalAlignment="Left" Height="44" Margin="349,432,0,0" VerticalAlignment="Top" Width="125" Source="res/blank.png" Stretch="Fill"/>
+        <Button x:Name="status" Content="Button" HorizontalAlignment="Left" Height="103" Margin="0,8,0,0" VerticalAlignment="Top" Width="315" Opacity="0" Click="status_Click" MouseEnter="status_MouseEnter" MouseLeave="status_MouseLeave"/>
+        <MediaElement x:Name="jick" HorizontalAlignment="Left" Height="100" Margin="1172,432,-491,0" VerticalAlignment="Top" Width="119" Source="res/jick.wav" LoadedBehavior="Manual" UnloadedBehavior="Manual"/>
+        <Label x:Name="save" Content="Save" HorizontalAlignment="Left" Height="45" Margin="10,482,0,0" VerticalAlignment="Top" Width="84" FontFamily="BoonJot" FontSize="29.333" Foreground="Black" MouseEnter="save_MouseEnter" MouseLeave="save_MouseLeave" MouseLeftButtonDown="save_MouseLeftButtonDown"/>
+        <Label x:Name="mainmenu" Content="Mainmenu" HorizontalAlignment="Left" Height="48" Margin="10,532,0,0" VerticalAlignment="Top" Width="135" FontFamily="BoonJot" FontSize="26.667" MouseEnter="mainmenu_MouseEnter" MouseLeave="mainmenu_MouseLeave" MouseLeftButtonDown="mainmenu_MouseLeftButtonDown"/>
+        <Image x:Name="displayquestion" HorizontalAlignment="Left" Height="218" Margin="257,209,0,0" VerticalAlignment="Top" Width="310"/>
+        <Image x:Name="yes" HorizontalAlignment="Left" Height="58" Margin="273,341,0,0" VerticalAlignment="Top" Width="133" MouseEnter="yes_MouseEnter" MouseLeave="yes_MouseLeave" MouseLeftButtonDown="yes_MouseLeftButtonDown" Stretch="Fill"/>
+        <Image x:Name="no" HorizontalAlignment="Left" Height="58" Margin="413,341,0,0" VerticalAlignment="Top" Width="133" MouseEnter="no_MouseEnter" MouseLeave="no_MouseLeave" Stretch="Fill" MouseLeftButtonDown="no_MouseLeftButtonDown" OpacityMask="Black"/>
+        
+
+
+
+    </Grid>
+</Page>
